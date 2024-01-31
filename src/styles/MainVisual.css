@@ -1,0 +1,18 @@
+.MainVisual{
+  width: 100%;
+  margin: auto;
+}
+h2{
+  text-align: center;
+  padding: 1.8rem;
+  font-size: 26px;
+  font-weight: 800;
+  color: white;
+  background-color: #007BC6;
+}
+.mySwiper{
+  margin: auto;
+}
+.mySwiper img{
+  width: 100%;
+}

@@ -1,0 +1,38 @@
+.Section04{
+width: 100%;
+background-color: #EDE734;}
+.Section04_inner{
+  margin: auto;
+  width: 1540px;
+}
+.Section04_text{
+  line-height: 30px;
+  padding: 5rem;
+  text-align: center;
+  margin: auto;
+}
+.Section04_text h3{
+  font-size: 33px;
+  font-weight: 800;
+
+}
+.Section04_text p{
+  margin-top: 10px;
+  font-weight: 500;
+}
+.membership{
+  display: inline-block;
+  width: 111px;
+  height: 37px;
+  background-color: black;
+  color: white;
+  margin-top: 20px;
+  padding: 0.3rem;
+}
+.membership::after{
+position: absolute;
+left: 50px;
+  width: 111px;
+  height: 37px;
+  border: 1px solid #000;
+}

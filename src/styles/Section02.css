@@ -1,0 +1,25 @@
+.Section02{
+ width: 100%;
+}
+.Section02_inner{
+  margin: auto;
+  width: 1540px;
+  padding-bottom: 200px;
+}
+.Section02_top,
+.Section02_bottom{
+  display: flex;
+  justify-content: space-between;
+}
+
+.Section02_text{
+  padding: 0.5rem 0;
+  line-height: 28px;
+}
+.Section02_text a h3{
+  font-size: 26px;
+  font-weight: 800;
+}
+.Section02_text a{
+  font-weight: 600;
+}

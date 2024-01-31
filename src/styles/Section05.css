@@ -1,0 +1,11 @@
+.Section05{
+  width: 100%;
+  margin: auto;
+
+}
+.Section05 p{
+  width: 1170px;
+  margin: auto;
+  padding: 2rem;
+  line-height: 25px;
+}

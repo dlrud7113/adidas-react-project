@@ -1,0 +1,29 @@
+.Section03{
+
+  width: 100%;
+  background-color: #F5F5E5;
+}
+.Section03_inner{
+  width: 1540px;
+  margin: auto;
+}
+.Section03_box{
+  display: flex;
+  justify-content: space-between;
+  padding: 1.5rem;
+}
+.Section03_left,
+.Section03_rigth{
+  margin-top: 120px;
+  height: 100%;
+  width: 730px;
+}
+.Section03_box h4{
+  font-size: 33px;
+  font-weight: 900;
+}
+.Section03_box p{
+  padding-bottom: 50px;
+  padding-top: 2.5rem;
+  line-height: 22px;
+}

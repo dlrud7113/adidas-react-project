@@ -1,0 +1,49 @@
+.Header{
+  width: 100%;
+}
+.Header_inner{
+  margin: auto;
+  width: 1540px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header_logo{
+  padding: 1.5rem;
+  display: flex;
+  align-items: center;
+}
+.Header ul{
+  width: 600px;
+  display: flex;
+  margin-left: 34px;
+  justify-content: space-between;
+}
+.Header ul li a{
+  font-size: 18px;
+  font-weight: 500;
+}
+.log a{
+font-weight: 500;
+padding-right: 20px;
+font-size: 20px;
+font-weight: 500;
+
+}
+.plus{
+  margin-left:-15px;
+  font-size: 12px;
+  line-height: 17px;
+  display: inline-block;
+text-align: center;
+  color: black;
+  font-weight: 900;
+  border-radius: 50%;
+  background-color: #FFD200;
+  width: 17px;
+  height: 17px;
+}
+.커져라{
+  font-size: 28px;
+  margin-bottom: -6px;
+}
